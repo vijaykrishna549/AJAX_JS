@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "firstName": "Chaya",
+      "lastName": "Thilakumara",
+      "subjectID": 1,
+      "id": 1
+    },
+    {
+      "firstName": "Aryan",
+      "lastName": "Thilakumara",
+      "subjectID": 2,
+      "id": 2
+    },
+    {
+      "firstName": "Aryana",
+      "lastName": "Thilakumara",
+      "subjectID": 1,
+      "id": 3
+    }
+  ],
+  "subjects": [
+    {
+      "id": 1,
+      "name": "Maths"
+    },
+    {
+      "id": 2,
+      "name": "Science"
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "name": "Pankaj",
+      "salary": "10000"
+    },
+    {
+      "name": "Lisa",
+      "salary": "8000",
+      "id": 3
+    },
+    {
+      "id": "4",
+      "name": "Vijay",
+      "salary": "80000"
+    },
+    {
+      "name": "Raman",
+      "salary": "85000",
+      "id": 5
+    },
+    {
+      "id": "6",
+      "name": "Prasad",
+      "salary": "75000"
+    },
+    {
+      "id": "7",
+      "name": "Terrisa",
+      "salary": "72000"
+    },
+    {
+      "name": "Harry",
+      "Salary": "50000",
+      "id": "YeWRPtP"
+    },
+    {
+      "name": "Harry",
+      "Salary": "50000",
+      "id": "D0vyjY-"
+    }
+  ]
+}
